@@ -1,0 +1,5 @@
+D:\GITHUB\TopCoderComponents\TopCoderComponents\GenericBasicTypeSerialization\bin\Debug\GenericBasicTypeSerialization.dll
+D:\GITHUB\TopCoderComponents\TopCoderComponents\GenericBasicTypeSerialization\bin\Debug\GenericBasicTypeSerialization.pdb
+D:\GITHUB\TopCoderComponents\TopCoderComponents\GenericBasicTypeSerialization\obj\Debug\GenericBasicTypeSerialization.csprojResolveAssemblyReference.cache
+D:\GITHUB\TopCoderComponents\TopCoderComponents\GenericBasicTypeSerialization\obj\Debug\GenericBasicTypeSerialization.dll
+D:\GITHUB\TopCoderComponents\TopCoderComponents\GenericBasicTypeSerialization\obj\Debug\GenericBasicTypeSerialization.pdb
